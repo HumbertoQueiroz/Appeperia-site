@@ -27,7 +27,7 @@ US - The challenge of this project is to develop a responsive website, with a be
 
 `Smartphone`
 
-!Smartphone](https://github.com/HumbertoQueiroz/Appeperia-site/assets/90359980/2f5440a2-d9cb-4eb8-ab1b-95060543198c)
+![Smartphone](https://github.com/HumbertoQueiroz/Appeperia-site/assets/90359980/2f5440a2-d9cb-4eb8-ab1b-95060543198c)
 
 
 
