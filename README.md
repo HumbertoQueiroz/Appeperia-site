@@ -27,13 +27,7 @@ US - The challenge of this project is to develop a responsive website, with a be
 
 `Smartphone`
 
-![Smartphone](./MeuProjetoSmartphone.png)
-
-
-
-Site focado em adaptabilidade Web, Mobile e tablete.
-![127 0 0 1_5500_drive_Portifolio_HTML%20e%20CSS_2_projeto-apeperia-b2501c63b2ebdfd8226473a6c8ffa8777e559efe_index html(Nest Hub Max)]
-
+![Smartphone)](https://github.com/HumbertoQueiroz/Appeperia-site/assets/90359980/3745f389-b769-4d8c-a351-4956185da242)
 
 
 ## Responsividade / Responsiveness 📲
